@@ -24,6 +24,7 @@ hs_err_pid*
 
 #Java related files 
 doc/
+bin/
 target/
 .settings/
 .classpath
